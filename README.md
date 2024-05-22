@@ -21,7 +21,7 @@ Link to CSS: A link to the styles.css file for styling.
 
 Stopwatch Container: A div element with the class stopwatch that contains the main elements of the stopwatch:
 
-A heading  displaying "Stopwatch".
+A heading  displaying <h1>"Stopwatch".</h1>
 
 A display area for showing hours, minutes, and seconds.
 
