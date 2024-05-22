@@ -1,8 +1,8 @@
-Project Overview
+<h4>Project Overview</h4>
 
-Created a <h4>STOPWATCH APPLICATION</h4> using HTML, CSS, and JavaScript. This project is a web-based application that allows users to start, pause, reset, and record lap times. Here's a detailed explanation of the components and technologies used:
+Created a STOPWATCH APPLICATION using HTML, CSS, and JavaScript. This project is a web-based application that allows users to start, pause, reset, and record lap times. Here's a detailed explanation of the components and technologies used:
 
-Technologies Used
+<h4>Technologies Used</h4>
 
 HTML: The structure of the webpage.
 
@@ -10,7 +10,7 @@ CSS: The styling of the webpage.
 
 JavaScript: The functionality of the stopwatch
 
-HTML (index.html)
+<h4>HTML (index.html)</h4>
 The HTML file sets up the structure of the stopwatch. It includes:
 
 Metadata: Basic metadata including charset and viewport settings for responsive design.
