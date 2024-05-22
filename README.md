@@ -27,7 +27,7 @@ A display area for showing hours, minutes, and seconds.
 
 Buttons for starting, pausing, resetting, and recording laps.
 
-An unordered list (<ul>) for displaying lap times.
+An unordered list  for displaying lap times.
 
 Script Link: A link to the script.js file that contains the JavaScript code.
 
